@@ -1,6 +1,7 @@
 div{
     background-color: aqua;
     padding: 10px;
+    margin: 2px;
 }
 .add{
     font-size: 30px;
